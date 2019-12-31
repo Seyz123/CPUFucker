@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPUFucker", "CPUFucker.csproj", "{CDF51773-0DF3-4325-90EE-73935DB92B65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDF51773-0DF3-4325-90EE-73935DB92B65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDF51773-0DF3-4325-90EE-73935DB92B65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDF51773-0DF3-4325-90EE-73935DB92B65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDF51773-0DF3-4325-90EE-73935DB92B65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
