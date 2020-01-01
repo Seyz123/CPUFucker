@@ -4,6 +4,7 @@
     <e p="C:\Users\Administrator\.Rider2019.3\system\extResources" t="IncludeRecursive" />
     <e p="C:\Users\Administrator\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_CPUFucker.902967658.00" t="ExcludeRecursive" />
     <e p="C:\Users\Administrator\Documents\CPUFucker" t="IncludeRecursive">
+      <e p=".gitattributes" t="Include" />
       <e p="bin" t="ExcludeRecursive" />
       <e p="CPUFucker.csproj" t="IncludeRecursive" />
       <e p="CPUFucker.sln" t="IncludeFlat" />
@@ -16,6 +17,7 @@
       </e>
       <e p="packages" t="ExcludeRecursive" />
       <e p="Program.cs" t="Include" />
+      <e p="README.md" t="Include" />
     </e>
   </component>
 </project>

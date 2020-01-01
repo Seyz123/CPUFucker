@@ -1,11 +1,286 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ed6928c-13dc-4bc9-b45c-1ff97beb7f3e" name="Default Changelist" comment="" />
+    <list default="true" id="5ed6928c-13dc-4bc9-b45c-1ff97beb7f3e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CPUFucker/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/CPUFucker.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/CPUFucker.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/CPUFucker.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/CPUFucker.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/CPUFucker.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/CPUFucker.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/Microsoft.CSharp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/Microsoft.DiaSymReader.Native.amd64.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/Microsoft.VisualBasic.Core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/Microsoft.VisualBasic.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/Microsoft.Win32.Primitives.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/Microsoft.Win32.Registry.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/SOS_README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.AppContext.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Buffers.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Collections.Concurrent.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Collections.Immutable.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Collections.NonGeneric.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Collections.Specialized.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Collections.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.ComponentModel.Annotations.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.ComponentModel.DataAnnotations.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.ComponentModel.EventBasedAsync.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.ComponentModel.Primitives.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.ComponentModel.TypeConverter.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.ComponentModel.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Configuration.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Console.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Data.Common.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Data.DataSetExtensions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Data.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Diagnostics.Contracts.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Diagnostics.Debug.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Diagnostics.DiagnosticSource.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Diagnostics.FileVersionInfo.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Diagnostics.Process.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Diagnostics.StackTrace.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Diagnostics.TextWriterTraceListener.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Diagnostics.Tools.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Diagnostics.TraceSource.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Diagnostics.Tracing.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Drawing.Primitives.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Drawing.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Dynamic.Runtime.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Globalization.Calendars.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Globalization.Extensions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Globalization.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.IO.Compression.Brotli.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.IO.Compression.FileSystem.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.IO.Compression.ZipFile.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.IO.Compression.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.IO.FileSystem.AccessControl.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.IO.FileSystem.DriveInfo.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.IO.FileSystem.Primitives.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.IO.FileSystem.Watcher.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.IO.FileSystem.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.IO.IsolatedStorage.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.IO.MemoryMappedFiles.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.IO.Pipes.AccessControl.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.IO.Pipes.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.IO.UnmanagedMemoryStream.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.IO.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Linq.Expressions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Linq.Parallel.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Linq.Queryable.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Linq.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Memory.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Net.Http.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Net.HttpListener.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Net.Mail.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Net.NameResolution.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Net.NetworkInformation.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Net.Ping.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Net.Primitives.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Net.Requests.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Net.Security.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Net.ServicePoint.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Net.Sockets.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Net.WebClient.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Net.WebHeaderCollection.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Net.WebProxy.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Net.WebSockets.Client.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Net.WebSockets.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Net.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Numerics.Vectors.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Numerics.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.ObjectModel.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Private.CoreLib.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Private.DataContractSerialization.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Private.Uri.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Private.Xml.Linq.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Private.Xml.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Reflection.DispatchProxy.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Reflection.Emit.ILGeneration.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Reflection.Emit.Lightweight.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Reflection.Emit.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Reflection.Extensions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Reflection.Metadata.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Reflection.Primitives.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Reflection.TypeExtensions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Reflection.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Resources.Reader.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Resources.ResourceManager.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Resources.Writer.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Runtime.CompilerServices.Unsafe.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Runtime.CompilerServices.VisualC.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Runtime.Extensions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Runtime.Handles.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Runtime.InteropServices.RuntimeInformation.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Runtime.InteropServices.WindowsRuntime.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Runtime.InteropServices.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Runtime.Intrinsics.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Runtime.Loader.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Runtime.Numerics.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Runtime.Serialization.Formatters.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Runtime.Serialization.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Runtime.Serialization.Primitives.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Runtime.Serialization.Xml.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Runtime.Serialization.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Runtime.WindowsRuntime.UI.Xaml.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Runtime.WindowsRuntime.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Runtime.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Security.AccessControl.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Security.Claims.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Security.Cryptography.Algorithms.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Security.Cryptography.Cng.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Security.Cryptography.Csp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Security.Cryptography.Encoding.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Security.Cryptography.OpenSsl.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Security.Cryptography.Primitives.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Security.Cryptography.X509Certificates.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Security.Principal.Windows.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Security.Principal.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Security.SecureString.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Security.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.ServiceModel.Web.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.ServiceProcess.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Text.Encoding.CodePages.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Text.Encoding.Extensions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Text.Encoding.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Text.Encodings.Web.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Text.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Text.RegularExpressions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Threading.Channels.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Threading.Overlapped.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Threading.Tasks.Dataflow.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Threading.Tasks.Extensions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Threading.Tasks.Parallel.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Threading.Tasks.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Threading.Thread.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Threading.ThreadPool.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Threading.Timer.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Threading.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Transactions.Local.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Transactions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.ValueTuple.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Web.HttpUtility.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Web.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Windows.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Xml.Linq.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Xml.ReaderWriter.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Xml.Serialization.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Xml.XDocument.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Xml.XPath.XDocument.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Xml.XPath.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Xml.XmlDocument.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Xml.XmlSerializer.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.Xml.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/System.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/WindowsBase.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/api-ms-win-core-console-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/api-ms-win-core-datetime-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/api-ms-win-core-debug-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/api-ms-win-core-errorhandling-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/api-ms-win-core-file-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/api-ms-win-core-file-l1-2-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/api-ms-win-core-file-l2-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/api-ms-win-core-handle-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/api-ms-win-core-heap-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/api-ms-win-core-interlocked-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/api-ms-win-core-libraryloader-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/api-ms-win-core-localization-l1-2-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/api-ms-win-core-memory-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/api-ms-win-core-namedpipe-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/api-ms-win-core-processenvironment-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/api-ms-win-core-processthreads-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/api-ms-win-core-processthreads-l1-1-1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/api-ms-win-core-profile-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/api-ms-win-core-rtlsupport-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/api-ms-win-core-string-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/api-ms-win-core-synch-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/api-ms-win-core-synch-l1-2-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/api-ms-win-core-sysinfo-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/api-ms-win-core-timezone-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/api-ms-win-core-util-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/api-ms-win-crt-conio-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/api-ms-win-crt-convert-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/api-ms-win-crt-environment-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/api-ms-win-crt-filesystem-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/api-ms-win-crt-heap-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/api-ms-win-crt-locale-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/api-ms-win-crt-math-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/api-ms-win-crt-multibyte-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/api-ms-win-crt-private-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/api-ms-win-crt-process-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/api-ms-win-crt-runtime-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/api-ms-win-crt-stdio-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/api-ms-win-crt-string-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/api-ms-win-crt-time-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/api-ms-win-crt-utility-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/clrcompression.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/clretwrc.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/clrjit.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/coreclr.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/dbgshim.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/hostfxr.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/hostpolicy.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/mscordaccore.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/mscordaccore_amd64_amd64_4.700.19.56402.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/mscordbi.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/mscorlib.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/mscorrc.debug.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/mscorrc.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/netstandard.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/publish/CPUFucker.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/publish/CPUFucker.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/win-x64/ucrtbase.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/CPUFucker.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/CPUFucker.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/CPUFucker.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/CPUFucker.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/CPUFucker.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/CPUFucker.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/CPUFucker.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/CPUFucker.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/win-x64/CPUFucker.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/win-x64/CPUFucker.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/win-x64/CPUFucker.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/win-x64/CPUFucker.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/win-x64/CPUFucker.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/win-x64/CPUFucker.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/win-x64/CPUFucker.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/win-x64/CPUFucker.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/win-x64/CPUFucker.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/win-x64/CPUFucker.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/win-x64/Link.semaphore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/win-x64/linked/CPUFucker.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/win-x64/linked/System.Console.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/win-x64/linked/System.Private.CoreLib.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/win-x64/linked/System.Runtime.Extensions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/win10-x64/CPUFucker.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/win10-x64/CPUFucker.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/win10-x64/CPUFucker.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/win10-x64/CPUFucker.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/win10-x64/CPUFucker.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/win10-x64/CPUFucker.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/win10-x64/CPUFucker.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/win10-x64/CPUFucker.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/win10-x64/CPUFucker.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/win10-x64/CPUFucker.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/win10-x64/Link.semaphore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/win10-x64/linked/CPUFucker.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/win10-x64/linked/System.Private.CoreLib.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/win10-x64/linked/System.Runtime.Extensions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CPUFucker/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CPUFucker/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CPUFucker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CPUFucker/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -13,11 +288,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/CPUFucker.csproj" />
         <option value="$PROJECT_DIR$/Program.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1VgDoR7LO9mq0ycJyCJDB9XFg2a" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -26,7 +305,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TWShift.4" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunManager">
@@ -74,6 +357,8 @@
       <workItem from="1577666026774" duration="886000" />
       <workItem from="1577667564181" duration="180000" />
       <workItem from="1577668644854" duration="703000" />
+      <workItem from="1577920376468" duration="665000" />
+      <workItem from="1577921864467" duration="496000" />
     </task>
     <servers />
   </component>
@@ -82,6 +367,22 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state width="1325" height="179" key="GridCell.Tab.0.bottom" timestamp="1577669515021">
       <screen x="0" y="0" width="1368" height="728" />
